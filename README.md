@@ -1,4 +1,4 @@
-# Data Structures and Algorithms (DSA) Repository
+# Data Structures and Algorithms (DSA) Repository 💻
 
 Welcome to the **Data Structures and Algorithms (DSA)** repository! This repository is designed to help you understand and implement various data structures and algorithms, which are crucial for coding interviews and competitive programming.
 
