@@ -1,52 +1,78 @@
-# Data Structures and Algorithms (DSA) Repository 💻
+# 💻 Data Structures and Algorithms (DSA) Repository
 
-Welcome to the **Data Structures and Algorithms (DSA)** repository! This repository is designed to help you understand and implement various data structures and algorithms, which are crucial for coding interviews and competitive programming.
+![Language](https://img.shields.io/badge/languages-C++%20%7C%20C%20%7C%20Java%20%7C%20Python-blue.svg)
+![Contributions](https://img.shields.io/badge/contributions-welcome-orange.svg)
+![License](https://img.shields.io/badge/license-MIT-green.svg)
 
-## Table of Contents
+---
 
-- [Introduction](#introduction)
-- [Data Structures](#data-structures)
-- [Algorithms](#algorithms)
-- [Getting Started](#getting-started)
+## 📘 Welcome
 
-## Introduction
+Welcome to the **Data Structures and Algorithms (DSA)** repository!  
+This curated collection of implementations is crafted to enhance your understanding of core DSA concepts, essential for **coding interviews**, **competitive programming**, and **software engineering roles**.
 
-This repository contains implementations of common **data structures** and **algorithms** in multiple programming languages such as Python,C, C++, and Java. Each algorithm and data structure is accompanied by explanations and examples to help you understand how they work and where they can be used.
+---
 
-## Data Structures
+## 📚 Table of Contents
 
-The repository includes implementations of the following data structures:
+- [📘 Introduction](#introduction)
+- [📂 Data Structures](#data-structures)
+- [⚙️ Algorithms](#algorithms)
+- [🚀 Getting Started](#getting-started)
+- [🤝 Contributions](#contributions)
+- [📄 License](#license)
 
-- Arrays
-- Linked Lists
-- Stacks
-- Queues
-- Hash Tables
-- Trees (Binary Trees, Binary Search Trees, AVL Trees, etc.)
-- Heaps
-- Graphs (Adjacency List, Adjacency Matrix)
-- Tries
-- And more...
+---
 
-## Algorithms
+## 📘 Introduction
 
-The repository also covers implementations of various algorithms such as:
+This repository contains clean and well-documented implementations of classic **data structures** and **algorithms** using multiple programming languages including **C**, **C++**, **Java**, and **Python**.
 
-- Sorting Algorithms (Bubble Sort, Merge Sort, Quick Sort, etc.)
-- Searching Algorithms (Binary Search, Linear Search, etc.)
-- Dynamic Programming (Knapsack, Longest Common Subsequence, etc.)
-- Greedy Algorithms (Huffman Encoding, Prim's Algorithm, etc.)
-- Graph Algorithms (DFS, BFS, Dijkstra's Algorithm, Kruskal’s Algorithm, etc.)
-- Divide and Conquer
-- Backtracking
-- Recursion
-- And more...
+Each implementation is accompanied by:
+- ✍️ **In-depth explanation**
+- 💡 **Use-case examples**
+- 🔎 **Edge case coverage**
 
-## Getting Started
+---
 
-To get started with this repository, you can either clone the repository or download it as a ZIP file.
+## 📂 Data Structures
 
-### Clone the repository:
+Comprehensive coverage of the most commonly used data structures:
+
+- 🔢 Arrays
+- 🔗 Linked Lists
+- 🗂️ Stacks
+- 📊 Queues
+- 🗃️ Hash Tables / Hash Maps
+- 🌲 Trees (Binary Trees, BST, AVL Trees, etc.)
+- 🛠️ Heaps (Min-Heap, Max-Heap)
+- 🌐 Graphs (Adjacency List, Adjacency Matrix)
+- 📚 Tries (Prefix Trees)
+- ➕ More advanced structures coming soon...
+
+---
+
+## ⚙️ Algorithms
+
+Implementations of fundamental and advanced algorithms, including:
+
+- 📦 **Sorting**: Bubble, Selection, Insertion, Merge, Quick, Heap Sort
+- 🔍 **Searching**: Linear Search, Binary Search
+- 🧠 **Dynamic Programming**: Knapsack, LCS, LIS, etc.
+- 💰 **Greedy Algorithms**: Huffman Coding, Kruskal’s, Prim’s, Activity Selection
+- 🌐 **Graph Algorithms**: BFS, DFS, Dijkstra, Bellman-Ford, Floyd-Warshall
+- ➗ **Divide and Conquer**: Merge Sort, Quick Sort, etc.
+- 🔁 **Recursion & Backtracking**: N-Queens, Sudoku Solver, Rat in a Maze
+- ➕ Many more...
+
+---
+
+## 🚀 Getting Started
+
+To use or contribute to this repository, follow these steps:
+
+### 🔧 Clone the repository
 
 ```bash
-https://github.com/Srijan-XI/Data-Structures-and-Algorithms.git
+git clone https://github.com/Srijan-XI/Data-Structures-and-Algorithms.git
+cd Data-Structures-and-Algorithms
