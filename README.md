@@ -49,4 +49,4 @@ To get started with this repository, you can either clone the repository or down
 ### Clone the repository:
 
 ```bash
-https://github.com/srijan1110/Data-Structures-and-Algorithms.git
+https://github.com/Srijan-XI/Data-Structures-and-Algorithms.git
